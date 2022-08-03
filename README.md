@@ -4,7 +4,7 @@ My first repository on github
 **Content**
 1) About JsonPowerDB
 2) Benefits Of JasonpowerDB
-3) Screnshot of Project
+3) Screenshot of Project
 
 
 **About JsonPowerDB:**
